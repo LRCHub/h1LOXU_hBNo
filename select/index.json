@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "What’s Poppin",
+  "base_artist": "JP THE WAVY、JIGG",
+  "createdAt": "2025-12-01T14:16:41.814809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What's Poppin'",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": false,
+      "path": "select/01_What's_Poppin'_50_Cent_feat._G_Unit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What's Poppin",
+      "artist": "Yung Mal",
+      "has_synced": false,
+      "path": "select/02_What's_Poppin_Yung_Mal.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/03_WHATS_POPPIN_(Remix)_[feat._DaBaby,_Tory_Lanez_&_Lil_Wayne]_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whats Poppin",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/04_Whats_Poppin_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whats Poppin (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne] [Bonus Track]",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/05_Whats_Poppin_(Remix)_[feat._DaBaby,_Tory_Lanez_&_Lil_Wayne]_[Bonus_Track]_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] (Bonus Track)",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/06_Whats_Poppin_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_[Remix]_(Bonus_Track)_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
+      "artist": "Jack Harlow feat. Tory Lanez, DaBaby & Lil Wayne",
+      "has_synced": true,
+      "path": "select/07_Whats_Poppin_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_[Remix]_-_Bonus_Track_Jack_Harlow_feat._Tory_Lanez,_DaBaby_&_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) (Remix)",
+      "artist": "Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",
+      "has_synced": true,
+      "path": "select/08_WHATS_POPPIN_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_(Remix)_Jack_Harlow,_Tory_Lanez,_DaBaby,_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne))",
+      "artist": "Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",
+      "has_synced": true,
+      "path": "select/09_WHATS_POPPIN_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne))_Jack_Harlow,_Tory_Lanez,_DaBaby,_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WHATS POPPIN",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/10_WHATS_POPPIN_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WHATS POPPIN",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/11_WHATS_POPPIN_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
+      "artist": "Jack Harlow/Tory Lanez/DaBaby/Lil Wayne",
+      "has_synced": true,
+      "path": "select/12_Whats_Poppin_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_[Remix]_-_Bonus_Track_Jack_Harlow_Tory_Lanez_DaBaby_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whats Poppin (remix)",
+      "artist": "Jack Harlow feat. DaBaby, Tory Lanez & Lil Wayne",
+      "has_synced": true,
+      "path": "select/13_Whats_Poppin_(remix)_Jack_Harlow_feat._DaBaby,_Tory_Lanez_&_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Whats Poppin (Remix) (Bonus Track) (feat. DaBaby, Tory Lanez & Lil Wayne)",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/14_Whats_Poppin_(Remix)_(Bonus_Track)_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) (Remix)",
+      "artist": "Jack Harlow, DaBaby, Lil Wayne, Tory Lanez",
+      "has_synced": true,
+      "path": "select/15_WHATS_POPPIN_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_(Remix)_Jack_Harlow,_DaBaby,_Lil_Wayne,_Tory_Lanez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHATS POPPIN",
+      "artist": "Jack Harlow",
+      "has_synced": false,
+      "path": "select/pl_01_WHATS_POPPIN_Jack_Harlow.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "WHATS POPPIN",
+      "artist": "Jack Harlow",
+      "has_synced": false,
+      "path": "select/pl_02_WHATS_POPPIN_Jack_Harlow.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+      "artist": "Jack Harlow",
+      "has_synced": false,
+      "path": "select/pl_03_WHATS_POPPIN_(Remix)_[feat._DaBaby,_Tory_Lanez_&_Lil_Wayne]_Jack_Harlow.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "artist": "Jack Harlow",
+      "has_synced": false,
+      "path": "select/pl_04_WHATS_POPPIN_(feat._DaBaby,_Tory_Lanez_&_Lil_Wayne)_-_Remix_Jack_Harlow.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Whats Poppin (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne] [Bonus Track]",
+      "artist": "Jack Harlow",
+      "has_synced": false,
+      "path": "select/pl_05_Whats_Poppin_(Remix)_[feat._DaBaby,_Tory_Lanez_&_Lil_Wayne]_[Bonus_Track]_Jack_Harlow.txt"
+    }
+  ]
+}
